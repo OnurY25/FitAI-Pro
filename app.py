@@ -19,7 +19,7 @@ st.write("Get your elite 7-day transformation plan instantly.")
 with st.sidebar:
     st.header("Premium Access")
     # LEMON SQUEEZY LİNKİNİ BURAYA YAPIŞTIR
-    st.link_button("🚀 Unlock Full Access ($4.99)", "https://onur.lemonsqueezy.com/...", type="primary")
+    st.sidebar.link_button("🚀 Unlock Full Access ($4.99)", "https://onur253515.lemonsqueezy.com/checkout/buy/584006bd-e900-4045-bfb8-214e7e2eb3d7")
     st.divider()
     st.info("Your data is processed by Gemini 1.5 AI.")
 
@@ -56,6 +56,7 @@ with st.container():
 st.divider()
 
 st.caption("© 2026 FitAI Global SaaS - Professional Edition")
+
 
 
 
