@@ -35,7 +35,7 @@ with st.container():
     if st.button("Generate My Professional Plan"):
         if name:
             # WEBHOOK URL'Nİ BURAYA YAPIŞTIR (TIRNAK İÇİNDE!)
-            WEBHOOK_URL = https://loud-phones-feel.loca.lt
+            WEBHOOK_URL = https://loud-phones-feel.loca.lt/webhook-test/5bcfa3a5-3435-4120-bf18-ad2c6636b8eb
             
             payload = {"name": name, "weight": weight, "goal": goal}
             
@@ -56,3 +56,4 @@ with st.container():
 st.divider()
 
 st.caption("© 2026 FitAI Global SaaS - Professional Edition")
+
